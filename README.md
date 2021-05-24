@@ -31,8 +31,7 @@ Step 2. Open the project in Robcorp Lab and open the tasks.robot file OR setup a
 
 Step 3. Change the variables as and logic as required. This is just an example, you can edits the MessagePayload or Webhook url within the script and avoid getting the inputs from the dialog box. 
 
-
-Step 4. Execute the tasks.robot file and the output files will then be found in this following relative path in the project. 
+Step 4. Execute the tasks.robot file OR run the assistant
 
 ## Thanks to 
 * [Robocorp](https://robocorp.com)
