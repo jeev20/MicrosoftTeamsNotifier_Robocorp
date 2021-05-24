@@ -14,4 +14,3 @@ dependencies:
     # Define pip packages here. 
     # https://pypi.org/
     - rpaframework==10.0.3  # https://rpaframework.org/releasenotes.html
-    - pymsteams==0.1.15
