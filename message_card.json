@@ -1,0 +1,30 @@
+{
+	"@type": "MessageCard",
+	"@context": "https://schema.org/extensions",
+	"summary": "Status is CARD_TYPE",
+	"themeColor": "THEME_COLOR",
+	"title": "CARD_TYPE - Robot Execution",
+	"sections": [
+		{
+			"activityTitle": "Type - WORKFLOW_TYPE",
+
+			
+			"facts": [
+				{
+					"name": "Process:",
+					"value": "PROCESS_NAME"
+				},
+				{
+					"name": "Time:",
+					"value": "TIME"
+				},
+				{	"name":"Robot Name:",
+					"value":"ROBOT_NAME"
+				}
+
+			],
+			"text": "MESSAGE"
+		}
+
+	]
+}
