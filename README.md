@@ -9,12 +9,12 @@ This robot sends messages to an incoming webhook in Microsoft Teams using Roboco
 - Depending on the success or failure of the send_teams_message function in teams_webhook.py the robot logs the completion message
 
 
-## Example messages as renders in Microsoft Teams
+## Example messages as seen in Microsoft Teams
 
-### Success Message
+### Success message 
 ![SuccessImage](https://github.com/jeev20/MicrosoftTeamsNotifier_Robocorp/blob/main/images/Success.JPG)
 
-### Failure Message
+### Failure message
 ![FailureImage](https://github.com/jeev20/MicrosoftTeamsNotifier_Robocorp/blob/main/images/Failure.JPG)
 
 
