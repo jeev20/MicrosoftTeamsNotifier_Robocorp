@@ -19,8 +19,8 @@ This robot sends messages to an incoming webhook in Microsoft Teams using Roboco
 
 
 ## Preconditions 
-Ensure you setup your Robocorp Lab instance to be able to run this robot in attended mode or use the Robocorp assistant.  
-Clone this repository and ensure your RCC in Robocorp lab is connected to your python instance. Robocorp Lab will parse the conda.yaml file to install all dependecies for this project using pip. 
+Ensure you setup your VS Code instance to be able to run this robot in attended mode or use the Robocorp assistant.  
+Clone this repository and ensure your RCC in VS Code and extensions is connected to your python instance. VS Code and extensions will parse the conda.yaml file to install all dependecies for this project using pip. 
 
 
 ## Running the script 
