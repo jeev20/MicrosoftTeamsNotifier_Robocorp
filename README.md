@@ -27,7 +27,7 @@ Clone this repository and ensure your RCC in VS Code and extensions is connected
 
 Step 1. Copy or Clone the contents of this repository OR  link this repository in Robocorp Cloud (support git folders and parses the tasks.robot)
 
-Step 2. Open the project in Robcorp Lab and open the tasks.robot file OR setup and assistant with this robot
+Step 2. Open the project in VS Code and open the tasks.robot file OR setup and assistant with this robot
 
 Step 3. Change the variables as and logic as required. This is just an example, you can edits the MessagePayload or Webhook url within the script and avoid getting the inputs from the dialog box. 
 
