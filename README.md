@@ -12,10 +12,10 @@ This robot sends messages to an incoming webhook in Microsoft Teams using Roboco
 ## Example messages as seen in Microsoft Teams
 
 ### Success message 
-![SuccessImage](https://github.com/jeev20/MicrosoftTeamsNotifier_Robocorp/blob/main/images/Success.JPG)
+![SuccessImage](/images/Success.JPG)
 
 ### Failure message
-![FailureImage](https://github.com/jeev20/MicrosoftTeamsNotifier_Robocorp/blob/main/images/Failure.JPG)
+![FailureImage](/images/Failure.JPG)
 
 
 ## Preconditions 
