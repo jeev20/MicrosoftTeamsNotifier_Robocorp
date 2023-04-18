@@ -29,7 +29,7 @@ Step 1. Copy or Clone the contents of this repository OR  link this repository i
 
 Step 2. Open the project in VS Code and open the tasks.robot file OR setup and assistant with this robot
 
-Step 3. Change the variables as and logic as required. This is just an example, you can edits the MessagePayload or Webhook url within the script and avoid getting the inputs from the dialog box. 
+Step 3. Change the variables as and logic as required. This is just an example, you can edit the MessagePayload or Webhook url within the script and avoid getting the inputs from the dialog box. 
 
 Step 4. Execute the tasks.robot file OR run the assistant
 
